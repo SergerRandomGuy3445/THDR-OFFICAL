@@ -159,8 +159,4 @@ client.on("message", async message => {
 
 
 
-client.login("ODQ5MjQwMzE5ODkxMzQxMzEy.YLYSrg.QJrXmDExT-YMRpzCRkSYZnmw6kU");
-
-//ODUwOTUxMzY5MjMzMjY4ODI2.YLxMOA.Et7fFxuytUj1BAHnBAQERE7KEzs ddsdsd
-
-//ODQ5MjQwMzE5ODkxMzQxMzEy.YLYSrg.QJrXmDExT-YMRpzCRkSYZnmw6kU discord test
+client.login("token")
